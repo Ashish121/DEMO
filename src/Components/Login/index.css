@@ -1,0 +1,16 @@
+.login-form {
+    display: flex;
+    justify-content: center;
+    margin-top:100px;
+   
+}
+
+.login-btn {
+    width:100%
+}
+.form {
+    max-width: 500px;
+    width: 500px;
+    max-width: 500px;
+    padding: 10px;
+}
